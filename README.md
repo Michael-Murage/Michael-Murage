@@ -5,6 +5,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href='mickeymurage@gmail.com'><strong>email</strong>.</a> 
+- 📫 How to reach me: email -> <strong>mickeymurage@gmail.com</strong>.
 - 😄 Pronouns: Vary between 'I' and "We" depending on the situation.
 - ⚡ Fun fact: I was a vocalist before burying my voice to 'resurrect' programs..., very funny
