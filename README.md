@@ -8,3 +8,5 @@
 - 📫 How to reach me: email -> <strong>mickeymurage@gmail.com</strong>.
 - 😄 Pronouns: Vary between 'I' and "We" depending on the situation.
 - ⚡ Fun fact: I was a vocalist before burying my voice to 'resurrect' programs..., very funny
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Murage)](https://git.io/streak-stats)
