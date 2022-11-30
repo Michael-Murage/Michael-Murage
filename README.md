@@ -11,7 +11,6 @@ I am a Full Stack Developer from Nairobi, Kenya.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
 
-<!-- - ⚡ Fun fact: I was a vocalist before burying my voice to 'resurrect' programs. -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Murage&theme=dark)](https://git.io/streak-stats)
 
