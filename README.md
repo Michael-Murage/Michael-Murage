@@ -9,7 +9,7 @@
 - 😄 Pronouns: Vary between 'I' and "We" depending on the situation.
 - ⚡ Fun fact: I was a vocalist before burying my voice to 'resurrect' programs..., very funny
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Murage&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Murage&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
