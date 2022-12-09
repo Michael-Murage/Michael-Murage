@@ -11,7 +11,7 @@ I am a Full Stack Developer from Nairobi, Kenya.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count-private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
