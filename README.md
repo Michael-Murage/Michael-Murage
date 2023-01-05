@@ -3,11 +3,11 @@
 I am a Full Stack Developer from Nairobi, Kenya.
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I am exploring a range of frameworks and languages, also building on what I know (learning never stops).
+- 🌱 I am working on building complex sustainable and efficient systems both online and offline types.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+<!-- - 💬 Ask me about  -->
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
 
