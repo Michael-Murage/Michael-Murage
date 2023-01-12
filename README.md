@@ -13,7 +13,7 @@ I am a Full Stack Developer from Nairobi, Kenya.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-stats-g54qrcw5l-michael-murage.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-coral-phi.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
