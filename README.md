@@ -3,9 +3,9 @@
 I am a Full Stack Developer from Nairobi, Kenya.
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I am working on building complex sustainable and efficient systems both online and offline types.
+- 🌱 I am working on building complex sustainable and efficient systems.
 
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 I’m looking to collaborate on any interesting web-related project.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: 
