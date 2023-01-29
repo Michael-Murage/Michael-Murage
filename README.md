@@ -16,7 +16,7 @@ I am a Full Stack Developer from Nairobi, Kenya.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Michael-Murage&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michael-Murage&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-stats-coral-phi.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
