@@ -16,6 +16,9 @@ I am a Full Stack Developer passionate about developing and delivering high qual
 ## Languages and Tools:
 
 <div align="left">
+	<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=c,heroku,jest,laravel,mongodb,netlify,vite,vue" />
+  	</a>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
