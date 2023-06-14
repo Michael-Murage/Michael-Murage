@@ -1,14 +1,14 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael-Murage&label=Profile%20views&color=0e75b6&style=flat" alt="Michael-Murage profile" /> </p>
 
-I am a Full Stack Developer passionate about developing and delivering high quality software solutions.
+I am a Front-end Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces. I also know my way around back-end and full stack development.
 
-- 🔭 I’m currently working on projects in Java and Spring ecosystem.
+- 🔭 I’m currently working on projects in Angular and Vue ecosystems.
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
 
 - 👯 I’m looking to collaborate on any interesting web-related project.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Laravel, Rails, React, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
+- 💬 Ask me about Laravel, Rails, React, Vue, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
 <a href="mailto:mickeymurage@gmail.com">mickeymurage@gmail.com</a>
