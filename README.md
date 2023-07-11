@@ -1,14 +1,14 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael-Murage&label=Profile%20views&color=0e75b6&style=flat" alt="Michael-Murage profile" /> </p>
 
-I am a Full Stack Developer passionate about developing and delivering high quality software solutions.
+I am a Front-end Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces. I also know my way around back-end and full stack development.
 
-- 🔭 I’m currently working on projects in Java and Spring ecosystem.
+- 🔭 I’m currently working on projects in Angular and Vue ecosystems.
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
 
 - 👯 I’m looking to collaborate on any interesting web-related project.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Laravel, Rails, React, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
+- 💬 Ask me about Laravel, Rails, React, Vue, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
 <a href="mailto:mickeymurage@gmail.com">mickeymurage@gmail.com</a>
@@ -16,6 +16,9 @@ I am a Full Stack Developer passionate about developing and delivering high qual
 ## Languages and Tools:
 
 <div align="left">
+	<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=c,heroku,jest,laravel,mongodb,netlify,vite,vue" />
+  	</a>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
@@ -55,7 +58,7 @@ I am a Full Stack Developer passionate about developing and delivering high qual
 [![Top Langs](https://github-stats-drab.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=10&layout=compact&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
