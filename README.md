@@ -11,7 +11,7 @@ I am a Front-end Engineer passionate about developing and delivering high qualit
 - 💬 Ask me about Laravel, Rails, React, Vue, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
-<a href="mailto:mickeymurage@gmail.com">mickeymurage@gmail.com</a>
+<a href="mailto:michaelmuragem@gmail.com">michaelmuragem@gmail.com</a>
 
 ## Languages and Tools:
 
