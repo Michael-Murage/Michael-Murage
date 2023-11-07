@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael-Murage&label=Profile%20views&color=0e75b6&style=flat" alt="Michael-Murage profile" /> </p>
 
-I am a Front-end Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces. I also know my way around back-end and full stack development.
+I am a Full stack software Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces.
+
 
 - 🔭 I’m currently working on projects in Angular and Vue ecosystems.
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
