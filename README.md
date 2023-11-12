@@ -1,17 +1,17 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael-Murage&label=Profile%20views&color=0e75b6&style=flat" alt="Michael-Murage profile" /> </p>
 
-I am a Full stack software Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces.
+I am a Full Stack Software Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces.
 
 
-- 🔭 I’m currently working on projects in Angular and Vue ecosystems.
+- 🔭 I’m currently working on freelance projects.
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
 
-- 👯 I’m looking to collaborate on any interesting web-related project.
+- 👯 I’m looking to collaborate on any web or mobile related gig.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Laravel, Rails, React, Vue, Node.Js development. Also JavaScript, Java, PHP, Python and Ruby.
+- 💬 Ask me about any of my skills herein or below.
 - 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage-b55aa722b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage/)
 <a href="mailto:michaelmuragem@gmail.com">michaelmuragem@gmail.com</a>
 
 ## Languages and Tools:
