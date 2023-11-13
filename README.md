@@ -7,7 +7,7 @@ I am a Full Stack Software Engineer passionate about developing and delivering h
 - 🔭 I’m currently working on freelance projects.
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
 
-- 👯 I’m looking to collaborate on any web or mobile related gig.
+<!-- - 👯 I’m looking to collaborate on any web or mobile related gig. -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about any of my skills herein or below.
 - 📫 How to reach me: 
@@ -56,7 +56,7 @@ I am a Full Stack Software Engineer passionate about developing and delivering h
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michael-Murage&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-stats-drab.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=10&layout=compact&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-drab.vercel.app/api/top-langs/?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true&langs_count=10&layout=compact&hide=scss,css,html,python,puppet,pug)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Murage&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
