@@ -4,12 +4,12 @@
 I am a Full Stack Software Engineer passionate about developing and delivering high quality software solutions and intuitively easy to use user interfaces.
 
 
-- 🔭 I’m currently working on freelance projects.
+<!-- - 🔭 I’m currently working on freelance projects. -->
 <!-- - 🌱 I am working on building complex sustainable and efficient systems. -->
 
 <!-- - 👯 I’m looking to collaborate on any web or mobile related gig. -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about any of my skills herein or below.
+<!-- - 💬 Ask me about any of my skills herein or below. -->
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage/)
 <a href="mailto:michaelmuragem@gmail.com">michaelmuragem@gmail.com</a>
