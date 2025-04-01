@@ -10,9 +10,9 @@ I am a Full Stack Software Engineer passionate about developing and delivering h
 <!-- - 👯 I’m looking to collaborate on any web or mobile related gig. -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about any of my skills herein or below. -->
-- 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage/)
-<a href="mailto:michaelmuragem@gmail.com">michaelmuragem@gmail.com</a>
+📫 How to reach me? <br/>
+LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murage/) <br/>
+Email: <a href="mailto:michaelmuragem@gmail.com">michaelmuragem@gmail.com</a>
 
 ## Languages and Tools:
 
